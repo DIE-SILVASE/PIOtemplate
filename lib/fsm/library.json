@@ -1,0 +1,6 @@
+{
+    "name": "fsm",
+    "srcDir": "src",
+    "includeDir": "include",
+    "platforms": "*"
+}
